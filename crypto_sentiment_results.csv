@@ -1,0 +1,8 @@
+ticker,url,summary,positive,neutral,negative
+GME,https://finance.yahoo.com/news/gamestop-q4-earnings,An error occurred.,0.6440622,0.00011532129,0.3558224
+GME,https://www.cnbc.com/gamestop,Timeout occurred.,0.0007557759,5.269202e-05,0.9991916
+TSLA,https://finance.yahoo.com/news/tesla-new-battery-tech,An error occurred.,0.6440622,0.00011532129,0.3558224
+TSLA,https://www.reuters.com/tesla-regulatory-challenges,An error occurred.,0.6440622,0.00011532129,0.3558224
+BTC,https://www.coindesk.com/bitcoin-all-time-high,An error occurred.,0.6440622,0.00011532129,0.3558224
+BTC,https://www.cointelegraph.com/bitcoin-market-analysis,An error occurred.,0.6440622,0.00011532129,0.3558224
+ETH,https://www.coingecko.com/en/coins/ethereum,An error occurred.,0.6440622,0.00011532129,0.3558224
